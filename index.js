@@ -15,6 +15,54 @@ const music = new Audio();
 
 const songs = [
     {
+        path: 'across_the_miles.mp3',
+        displayName: 'Across The Miles',
+        cover: 'across_the_miles.jpeg',
+        artist: 'Thiago Costa & Suno AI',
+        lyrics: `Your voice travels through the static haze<br>
+A melody that bridges the days<br>
+Your laugh<br>
+A light<br>
+It brightens my screen<br>
+In every pixel<br>
+You're my dream<br>
+
+Across the miles<br>
+We’ll make it through<br>
+This love’s a map that leads to you<br>
+Connection strong<br>
+No space too wide<br>
+The heart knows no divide<br>
+
+Time zones mix<br>
+The sun and moon collide<br>
+Texting love when worlds don’t align<br>
+These early mornings<br>
+The restless nights<br>
+Are worth it all to keep this right<br>
+
+Across the miles<br>
+We’ll make it through<br>
+This love’s a map that leads to you<br>
+Connection strong<br>
+No space too wide<br>
+The heart knows no divide<br>
+
+Each "I miss you" whispers hope<br>
+While we dream<br>
+The stars elope<br>
+We’ll thread the clocks<br>
+We’ll bend the time<br>
+Until we’re side by side<br>
+
+Plane tickets and countdowns on the wall<br>
+The waiting's hard<br>
+But we’ll have it all<br>
+Pictures held close<br>
+Phone calls that shine<br>
+The world seems small when you're mine`
+    },
+    }
         path: 'kiseki.mp3',
         displayName: 'キセキ',
         cover: 'kiseki.png',
