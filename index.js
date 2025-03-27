@@ -12,7 +12,7 @@ const image = document.getElementById('cover'),
     lyricsContainer = document.getElementById('lyrics');  // Add this to access the lyrics section
 
 const music = new Audio();
-
+//song list
 const songs = [
     {
         path: 'across_the_miles.mp3',
