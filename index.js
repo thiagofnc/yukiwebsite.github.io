@@ -62,7 +62,7 @@ Pictures held close<br>
 Phone calls that shine<br>
 The world seems small when you're mine`
     },
-    }
+    {
         path: 'kiseki.mp3',
         displayName: 'キセキ',
         cover: 'kiseki.png',
